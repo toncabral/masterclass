@@ -1,0 +1,13 @@
+Driver nativo - node-postgress.com
+Query Builder - knexjs
+ORM - sequelize
+
+pg-docker
+    user: docker
+    password: docker
+    porta: 5432
+    host: localhost
+
+Interface Postgres - Postico, Postbird
+Interface rest api - insomina
+Load de script automático - consign npm, require directory
